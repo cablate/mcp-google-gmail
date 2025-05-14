@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cablate-mcp-google-gmail-badge.png)](https://mseep.ai/app/cablate-mcp-google-gmail)
+
 # Gmail MCP Server
 
 A powerful Model Context Protocol (MCP) server providing comprehensive Gmail integration with LLM processing capabilities.
